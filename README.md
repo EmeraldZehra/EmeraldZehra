@@ -3,8 +3,7 @@
 🎓 I'm currently studying Aerospace Engineering at Middle East Technical University.
 🌱 I’m currently learning new programming languages 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimeEmeraldZehrawillianrod)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEmeraldZehraanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 -  ...
 - 👯 I’m looking to collaborate on ...
